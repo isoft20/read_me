@@ -1,2 +1,9 @@
-# read_me
-Coding from beginners point
+<!DO TYPE html>
+ <html>
+<head>
+<title>
+</title>
+<meta charset ="UTF.8>
+</head>
+</html>
+
